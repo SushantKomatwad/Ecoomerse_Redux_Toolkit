@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecoomerse_Redux_Toolkit/static/css/main.93b5a629.css",
+    "main.js": "/Ecoomerse_Redux_Toolkit/static/js/main.ae6f76ec.js",
+    "static/js/787.ff02b962.chunk.js": "/Ecoomerse_Redux_Toolkit/static/js/787.ff02b962.chunk.js",
+    "index.html": "/Ecoomerse_Redux_Toolkit/index.html",
+    "main.93b5a629.css.map": "/Ecoomerse_Redux_Toolkit/static/css/main.93b5a629.css.map",
+    "main.ae6f76ec.js.map": "/Ecoomerse_Redux_Toolkit/static/js/main.ae6f76ec.js.map",
+    "787.ff02b962.chunk.js.map": "/Ecoomerse_Redux_Toolkit/static/js/787.ff02b962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b5a629.css",
+    "static/js/main.ae6f76ec.js"
+  ]
+}
